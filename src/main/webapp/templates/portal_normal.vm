@@ -79,7 +79,7 @@
                 <hr />
                 <div class="row">
                     <div class="span4">
-                        <h5><a href="/conocenos">Acerca de Escuela Sabática Universitaria</a></h5>
+                        <h5><a href="/conocenos">About Us</a></h5>
                         #foreach ($nav_item in $nav_items)
                             <p>
                                 <a href="$nav_item.getURL()" $nav_item.getTarget()><span>$nav_item.icon() $htmlUtil.escape($nav_item.getName())</span></a>
@@ -87,7 +87,7 @@
                         #end
                     </div>
                     <div class="span4">
-                        <h5>Redes Sociales</h5>
+                        <h5>Follow us</h5>
                         <p><a href="http://www.facebook.com/EscuelaSabaticaUniversitaria" target="_blank">Facebook</a></p>
                         <p><a href="http://twitter.com/#!/esuniversitaria" target="_blank">Twitter</a></p>
                     </div>
