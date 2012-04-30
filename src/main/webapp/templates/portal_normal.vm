@@ -45,10 +45,10 @@
                             <a href="$my_account_url" >
                                 <img alt="$user_name" src="$portrait_url" style="height:20px;"/>
                             </a>
-                            <a href="$my_account_url" style="vertical-align: super;" >
+                            <a href="$my_account_url" >
                                 $user_name
                             </a>
-                            <span class="sign-out" style="vertical-align: super;">
+                            <span class="sign-out" >
                                 (<a href="$sign_out_url">$sign_out_text</a>)
                             </span>
                         </div>
