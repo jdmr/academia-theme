@@ -26,6 +26,7 @@
                     <autoDeployDir>${liferay.auto.deploy.dir}</autoDeployDir>
                     <liferayVersion>${liferay.version}</liferayVersion>
                     <parentTheme>${liferay.theme.parent}</parentTheme>
+                    <pluginType>theme</pluginType>
                     <themeType>${liferay.theme.type}</themeType>
                 </configuration>
             </plugin>
@@ -97,13 +98,13 @@
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
-            <version>2.4</version>
+            <version>2.5</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>javax.servlet.jsp</groupId>
             <artifactId>jsp-api</artifactId>
-            <version>2.0</version>
+            <version>2.2</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
