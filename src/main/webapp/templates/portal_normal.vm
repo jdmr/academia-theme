@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="/academia-theme/css/font-awesome.css" type="text/css">
         <link rel="stylesheet" href="/academia-theme/css/custom-theme/jquery-ui-1.8.17.custom.css" type="text/css">
         <link rel="stylesheet" href="/academia-theme/css/chosen.css" type="text/css">
+        <link rel="stylesheet" href="/academia-theme/css/app.css" type="text/css">
 
         <script src="/academia-theme/jwplayer/jwplayer.js"></script>
         <script src="/academia-theme/js/jquery-1.7.1.min.js"></script>
